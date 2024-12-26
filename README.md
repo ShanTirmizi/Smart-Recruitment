@@ -1,4 +1,3 @@
-# Smart-Recruitment
 # Smart Recruitment App
 
 A modern FastAPI-based application for streamlining the recruitment process.
